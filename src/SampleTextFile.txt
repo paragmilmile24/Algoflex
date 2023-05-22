@@ -1,1 +1,3 @@
 This is a local File . Changes are made on local machine.
+
+Making changes to create a conflict.
