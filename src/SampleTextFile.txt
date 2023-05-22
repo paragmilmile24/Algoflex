@@ -1,3 +1,5 @@
 This is a local File . Changes are made on local machine.
 
 Making changes to create a conflict.
+
+Changing thi file in sub_branch for conflict.
